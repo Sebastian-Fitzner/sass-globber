@@ -17,7 +17,7 @@ Read a source file from a provided directory, process its content, glob all file
 
 ``` js
 
-var sassGlobbing = require('sass-globbing');
+var sassGlobbing = require('sass-globber');
 
 sassGlobbing.compiled({
 	sassRoot: 'src/sass',
